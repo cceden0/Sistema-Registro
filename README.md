@@ -2,5 +2,7 @@
 
 - Sistema en construcción.....!
 - Para ejecutar el progrma
-'''
-ejecuta npm install react
+- ejecuta
+  '''npm install react'''
+- Sistema de registro 2
+  ''' npm install live-server '''
